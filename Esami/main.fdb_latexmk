@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1530978560 "c:/Users/Ale/Desktop/Fisica/Esami/main.tex" "main.pdf" "main" 1530978563
+["pdflatex"] 1530978758 "c:/Users/Ale/Desktop/Fisica/Esami/main.tex" "main.pdf" "main" 1530978761
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233955454 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233955454 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -136,7 +136,7 @@
   "ES3/SET032017.jpg" 1530975319 11907 5cfc61ddbc5beff39fdb1b36a3792393 ""
   "ES4/2015.tex" 1530975317 2820 f154754ea0e9ccc408c96ab2dd3cc145 ""
   "ES4/2016.tex" 1530978155 1686 51d473d482ce7cc2118f9342c4f22efb ""
-  "ES4/2017.tex" 1530978561 450 b3d686e8990d5045c6b141a3815bc1d6 ""
+  "ES4/2017.tex" 1530978757 954 2d58bddc54dfc2c7000c2d8a679c0226 ""
   "ES4/2018.tex" 1530975316 0 d41d8cd98f00b204e9800998ecf8427e ""
   "ES4/FEB042016.jpg" 1530975317 12225 dc19561fa8b2634329e4e02d199637b8 ""
   "ES4/GEN042015.jpg" 1530975318 11765 d34ee7b6120a65f4300c912702321e29 ""
@@ -159,13 +159,13 @@
   "ES5/SET052017.jpg" 1530975320 12437 7bd6daef2be5781d623939d574d58263 ""
   "c:/Users/Ale/Desktop/Fisica/Esami/main.tex" 1530977687 1445 b1988114f9da7422bd9c747e6fe5c1d5 ""
   "import.tex" 1530975328 663 d332c0e852a51cc67f0d5a6fcc004217 ""
-  "main.aux" 1530978563 1509 0d6d1a5bd81c7a3dc152006c2618a4d6 ""
-  "main.out" 1530978563 456 40e838fe55a8c7cba82eff0a4e832850 ""
+  "main.aux" 1530978760 1509 0d6d1a5bd81c7a3dc152006c2618a4d6 ""
+  "main.out" 1530978760 456 40e838fe55a8c7cba82eff0a4e832850 ""
   "main.tex" 1530977687 1445 b1988114f9da7422bd9c747e6fe5c1d5 ""
-  "main.toc" 1530978563 646 5d720d84dc9baa42a7002c23dd7067db ""
+  "main.toc" 1530978760 646 5d720d84dc9baa42a7002c23dd7067db ""
   (generated)
   "main.aux"
+  "main.out"
   "main.log"
   "main.pdf"
-  "main.out"
   "main.toc"
