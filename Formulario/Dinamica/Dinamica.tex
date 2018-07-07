@@ -50,14 +50,25 @@ Piano inclinato: \\
     \text{Forza risultante: } F_{ris, x} = \sqrt{F_{P, x}^2 + F_{As}^2}
 \end{gather*}
 \textbf{Nota bene: } la forza d'attrito ($F_{A}$, attrito statico nell'immagine) ha verso opposto alla componente della forza peso sull'asse x($F_{P, x}$)
+\subsubsection{Piano inclinato con attrito e forza aggiuntiva}
+\includegraphics[width=\linewidth]{Dinamica/piano-inclinato-con-attrito-2.png} \\
+\textbf{Primo caso: } forza risultante($F_{ris, x}$)tutta concentrata lungo l'asse $x$: $F_{ris, x} = F - F_A - F_{P, x}$ \\
+\textbf{Secondo caso: } $F_{ris, x} = F + F_{P, x} - F_A$ \\
+
 \subsubsection{Attrito Statico}
 \begin{gather*}
     \text{Forza Attrito Statico: } \\ F_{As} = \mu_s \cdot F_\perp = \mu_s \cdot F_{P, y} = \mu_s m g \cos (\alpha) \\
     \text{Accelerazione: } \\ a = a_x = g \sin (\alpha) - \mu_s g \cos (\alpha) \\
-    \text{Angolo critico per l'equilibrio: } \\ \alpha = \arctan (\mu_s)
+    \text{Angolo critico per l'equilibrio: } \\ \alpha = \arctan (\mu_s) : \\
+    \begin{cases}
+        \text{Scivola} & \text{Angoli } > \alpha \\
+        \text{Equilibrio} & \text{Angoli } <= \alpha
+    \end{cases}    \\
+    \text{Attrito Statico per Equilibrio: } \mu_s = \tan (\alpha)
 \end{gather*}
 \subsubsection{Attrito Dinamico}
-\textbf{Nota bene: } Per poter considerare il problema dal punto di vista dell'attrito dinamico($\mu_d$)
+\textbf{Nota bene: } Per poter considerare il problema dal punto di vista dell'attrito dinamico($\mu_d$) il corpo deve essere già in movimento!
 \begin{gather*}
+    \text{Forza Attrito Dinamico:} \\ F_{Ad} = \mu_d \cdot F_\perp = \mu_d \cdot F_{P, y} = \mu_d m g \cos (\alpha) \\
     \text{Accelerazione: } \\ a = a_x = g \sin (\alpha) - \mu_d g \cos (\alpha)
 \end{gather*}
