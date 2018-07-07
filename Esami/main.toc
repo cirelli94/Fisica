@@ -3,7 +3,7 @@
 \contentsline {section}{\numberline {2}Tipologia Esercizio 2}{8}{section.2}
 \contentsline {section}{\numberline {3}Tipologia Esercizio 3}{11}{section.3}
 \contentsline {section}{\numberline {4}Tipologia Esercizio 4}{13}{section.4}
-\contentsline {section}{\numberline {5}Tipologia Esercizio 5}{16}{section.5}
-\contentsline {section}{\numberline {6}Tipologia Esercizio 6}{20}{section.6}
-\contentsline {section}{\numberline {7}Tipologia Esercizio 7}{20}{section.7}
-\contentsline {section}{\numberline {8}Tipologia Esercizio 8}{20}{section.8}
+\contentsline {section}{\numberline {5}Tipologia Esercizio 5}{17}{section.5}
+\contentsline {section}{\numberline {6}Tipologia Esercizio 6}{21}{section.6}
+\contentsline {section}{\numberline {7}Tipologia Esercizio 7}{21}{section.7}
+\contentsline {section}{\numberline {8}Tipologia Esercizio 8}{21}{section.8}

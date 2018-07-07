@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:55
 entering extended mode
 **c:/Users/Ale/Desktop/Fisica/Esami/main.tex
 (c:/Users/Ale/Desktop/Fisica/Esami/main.tex
@@ -1254,15 +1254,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 ) (ES4/2018.tex) [13
 
  <./ES4/GEN042015.jpg> <./ES4/GIU042015.jpg>] [14 <./ES4/LUG042015.jpg>] [15 <.
-/ES4/FEB042016.jpg> <./ES4/GIU042016.jpg>] (ES5/2015.tex
+/ES4/FEB042016.jpg> <./ES4/GIU042016.jpg>] [16]
+(ES5/2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<ES5/GEN052015.jpg, id=137, 166.82326pt x 109.00725pt>
+<ES5/GEN052015.jpg, id=141, 166.82326pt x 109.00725pt>
 File: ES5/GEN052015.jpg Graphic file (type jpg)
 <use ES5/GEN052015.jpg>
 Package pdftex.def Info: ES5/GEN052015.jpg  used on input line 5.
@@ -1280,7 +1289,7 @@ t/10 R\OT1/cmr/m/n/10 6$ e $\OML/cmm/m/it/10 i[] \OT1/cmr/m/n/10 = 1\OML/cmm/m
 sono
  []
 
-<ES5/FEB052015.jpg, id=138, 287.27325pt x 107.80275pt>
+<ES5/FEB052015.jpg, id=142, 287.27325pt x 107.80275pt>
 File: ES5/FEB052015.jpg Graphic file (type jpg)
 <use ES5/FEB052015.jpg>
 Package pdftex.def Info: ES5/FEB052015.jpg  used on input line 14.
@@ -1290,7 +1299,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
-<ES5/GIU052015.jpg, id=139, 217.41225pt x 125.87025pt>
+<ES5/GIU052015.jpg, id=143, 217.41225pt x 125.87025pt>
 File: ES5/GIU052015.jpg Graphic file (type jpg)
 <use ES5/GIU052015.jpg>
 Package pdftex.def Info: ES5/GIU052015.jpg  used on input line 22.
@@ -1303,7 +1312,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
  []
 
-<ES5/LUG052015.jpg, id=140, 230.0595pt x 113.82526pt>
+<ES5/LUG052015.jpg, id=144, 230.0595pt x 113.82526pt>
 File: ES5/LUG052015.jpg Graphic file (type jpg)
 <use ES5/LUG052015.jpg>
 Package pdftex.def Info: ES5/LUG052015.jpg  used on input line 30.
@@ -1316,7 +1325,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-<ES5/GEN052016.jpg, id=141, 205.9695pt x 108.405pt>
+<ES5/GEN052016.jpg, id=145, 205.9695pt x 108.405pt>
 File: ES5/GEN052016.jpg Graphic file (type jpg)
 <use ES5/GEN052016.jpg>
 Package pdftex.def Info: ES5/GEN052016.jpg  used on input line 6.
@@ -1329,7 +1338,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
-<ES5/FEB052016.jpg, id=142, 210.7875pt x 97.5645pt>
+<ES5/FEB052016.jpg, id=146, 210.7875pt x 97.5645pt>
 File: ES5/FEB052016.jpg Graphic file (type jpg)
 <use ES5/FEB052016.jpg>
 Package pdftex.def Info: ES5/FEB052016.jpg  used on input line 14.
@@ -1342,7 +1351,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<ES5/GIU052016.jpg, id=143, 197.538pt x 114.4275pt>
+<ES5/GIU052016.jpg, id=147, 197.538pt x 114.4275pt>
 File: ES5/GIU052016.jpg Graphic file (type jpg)
 <use ES5/GIU052016.jpg>
 Package pdftex.def Info: ES5/GIU052016.jpg  used on input line 23.
@@ -1363,7 +1372,7 @@ t/10 R\OT1/cmr/m/n/10 6$ e $\OML/cmm/m/it/10 i[] \OT1/cmr/m/n/10 = 1\OML/cmm/m
 ono
  []
 
-<ES5/LUG052016.jpg, id=144, 218.61674pt x 101.178pt>
+<ES5/LUG052016.jpg, id=148, 218.61674pt x 101.178pt>
 File: ES5/LUG052016.jpg Graphic file (type jpg)
 <use ES5/LUG052016.jpg>
 Package pdftex.def Info: ES5/LUG052016.jpg  used on input line 31.
@@ -1376,7 +1385,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<ES5/FEB052017.jpg, id=145, 196.3335pt x 99.37125pt>
+<ES5/FEB052017.jpg, id=149, 196.3335pt x 99.37125pt>
 File: ES5/FEB052017.jpg Graphic file (type jpg)
 <use ES5/FEB052017.jpg>
 Package pdftex.def Info: ES5/FEB052017.jpg  used on input line 5.
@@ -1389,7 +1398,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--13
 
  []
 
-<ES5/GIU052017.jpg, id=146, 182.48175pt x 97.5645pt>
+<ES5/GIU052017.jpg, id=150, 182.48175pt x 97.5645pt>
 File: ES5/GIU052017.jpg Graphic file (type jpg)
 <use ES5/GIU052017.jpg>
 Package pdftex.def Info: ES5/GIU052017.jpg  used on input line 14.
@@ -1402,7 +1411,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<ES5/SET052017.jpg, id=147, 158.994pt x 99.37125pt>
+<ES5/SET052017.jpg, id=151, 158.994pt x 99.37125pt>
 File: ES5/SET052017.jpg Graphic file (type jpg)
 <use ES5/SET052017.jpg>
 Package pdftex.def Info: ES5/SET052017.jpg  used on input line 23.
@@ -1410,14 +1419,14 @@ Package pdftex.def Info: ES5/SET052017.jpg  used on input line 23.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [16
+) [17
 
- <./ES5/GEN052015.jpg> <./ES5/FEB052015.jpg>] [17 <./ES5/GIU052015.jpg> <./ES5/
-LUG052015.jpg> <./ES5/GEN052016.jpg>] [18 <./ES5/FEB052016.jpg> <./ES5/GIU05201
-6.jpg> <./ES5/LUG052016.jpg>] [19 <./ES5/FEB052017.jpg> <./ES5/GIU052017.jpg> <
+ <./ES5/GEN052015.jpg> <./ES5/FEB052015.jpg>] [18 <./ES5/GIU052015.jpg> <./ES5/
+LUG052015.jpg> <./ES5/GEN052016.jpg>] [19 <./ES5/FEB052016.jpg> <./ES5/GIU05201
+6.jpg> <./ES5/LUG052016.jpg>] [20 <./ES5/FEB052017.jpg> <./ES5/GIU052017.jpg> <
 ./ES5/SET052017.jpg>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
- [20
+ [21
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
@@ -1429,8 +1438,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
- 15967 strings out of 492973
- 262698 string characters out of 3135939
+ 15968 strings out of 492973
+ 262705 string characters out of 3135939
  400810 words of memory out of 3000000
  19505 multiletter control sequences out of 15000+200000
  6252 words of font info for 25 fonts, out of 3000000 for 9000
@@ -1446,9 +1455,9 @@ amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (20 pages, 583762 bytes).
+Output written on main.pdf (21 pages, 584999 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
