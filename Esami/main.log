@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:30
 entering extended mode
-**c:/Users/Ale/Desktop/fisica/main.tex
-(c:/Users/Ale/Desktop/fisica/main.tex
+**c:/Users/Ale/Desktop/Fisica/Esami/main.tex
+(c:/Users/Ale/Desktop/Fisica/Esami/main.tex
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -1432,12 +1432,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
  15953 strings out of 492973
- 262277 string characters out of 3135939
+ 262463 string characters out of 3135939
  400736 words of memory out of 3000000
  19497 multiletter control sequences out of 15000+200000
  6252 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,43p,611b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,13n,43p,617b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKT
