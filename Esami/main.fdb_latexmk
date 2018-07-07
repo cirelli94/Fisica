@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1530978945 "c:/Users/Ale/Desktop/Fisica/Esami/main.tex" "main.pdf" "main" 1530978948
+["pdflatex"] 1530979155 "c:/Users/Ale/Desktop/Fisica/Esami/main.tex" "main.pdf" "main" 1530979157
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233955454 916 f87d7c45f9c908e672703b83b72241a3 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233955454 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -136,7 +136,7 @@
   "ES3/SET032017.jpg" 1530975319 11907 5cfc61ddbc5beff39fdb1b36a3792393 ""
   "ES4/2015.tex" 1530975317 2820 f154754ea0e9ccc408c96ab2dd3cc145 ""
   "ES4/2016.tex" 1530978155 1686 51d473d482ce7cc2118f9342c4f22efb ""
-  "ES4/2017.tex" 1530978944 1460 924da51ca8937be5455fe125dd37c00d ""
+  "ES4/2017.tex" 1530979151 1873 8cb2effc2804d20dc52c61d428a7131b ""
   "ES4/2018.tex" 1530975316 0 d41d8cd98f00b204e9800998ecf8427e ""
   "ES4/FEB042016.jpg" 1530975317 12225 dc19561fa8b2634329e4e02d199637b8 ""
   "ES4/GEN042015.jpg" 1530975318 11765 d34ee7b6120a65f4300c912702321e29 ""
@@ -159,13 +159,13 @@
   "ES5/SET052017.jpg" 1530975320 12437 7bd6daef2be5781d623939d574d58263 ""
   "c:/Users/Ale/Desktop/Fisica/Esami/main.tex" 1530977687 1445 b1988114f9da7422bd9c747e6fe5c1d5 ""
   "import.tex" 1530975328 663 d332c0e852a51cc67f0d5a6fcc004217 ""
-  "main.aux" 1530978947 1509 13d361df6c0fa95088842fd53e870312 ""
-  "main.out" 1530978947 456 40e838fe55a8c7cba82eff0a4e832850 ""
+  "main.aux" 1530979157 1509 13d361df6c0fa95088842fd53e870312 ""
+  "main.out" 1530979157 456 40e838fe55a8c7cba82eff0a4e832850 ""
   "main.tex" 1530977687 1445 b1988114f9da7422bd9c747e6fe5c1d5 ""
-  "main.toc" 1530978947 646 8475729d8e33fa9790860a0e02109b0e ""
+  "main.toc" 1530979157 646 8475729d8e33fa9790860a0e02109b0e ""
   (generated)
-  "main.toc"
-  "main.log"
   "main.aux"
-  "main.out"
+  "main.log"
   "main.pdf"
+  "main.out"
+  "main.toc"
