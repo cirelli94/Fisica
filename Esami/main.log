@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:49
 entering extended mode
 **c:/Users/Ale/Desktop/Fisica/Esami/main.tex
 (c:/Users/Ale/Desktop/Fisica/Esami/main.tex
@@ -1238,11 +1238,18 @@ Underfull \hbox (badness 1005) in paragraph at lines 28--33
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (ES4/2017.tex) (ES4/2018.tex) [13
+) (ES4/2017.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (ES4/2018.tex) [13
 
  <./ES4/GEN042015.jpg> <./ES4/GIU042015.jpg>] [14 <./ES4/LUG042015.jpg>] [15 <.
-/ES4/FEB042016.jpg> <./ES4/GIU042016.jpg>]
-(ES5/2015.tex
+/ES4/FEB042016.jpg> <./ES4/GIU042016.jpg>] (ES5/2015.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -1431,7 +1438,7 @@ amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (20 pages, 582685 bytes).
+Output written on main.pdf (20 pages, 583059 bytes).
 PDF statistics:
  212 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
