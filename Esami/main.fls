@@ -140,14 +140,8 @@ INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
-INPUT main.out
-INPUT main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT ./main.out
-INPUT ./main.out
 OUTPUT main.out
+OUTPUT main.pdf
 INPUT C:/Users/Ale/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
 INPUT C:/Users/Ale/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
@@ -160,15 +154,13 @@ INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/lscape.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/lscape.sty
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
-INPUT main.toc
-INPUT main.toc
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT main.toc
 INPUT C:/Users/Ale/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/omscmr.fd
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/omscmr.fd
 INPUT ES1/2015.tex
 INPUT ES1/2015.tex
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd

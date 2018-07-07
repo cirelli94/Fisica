@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.7)  7 JUL 2018 17:18
 entering extended mode
 **c:/Users/Ale/Desktop/fisica/main.tex
 (c:/Users/Ale/Desktop/fisica/main.tex
@@ -584,8 +584,6 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
-
-(main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -657,12 +655,11 @@ Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (main.toc)
+)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-
-[1
+ [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -705,7 +702,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-<ES1/FEB012015.jpg, id=52, 183.084pt x 60.225pt>
+<ES1/FEB012015.jpg, id=11, 183.084pt x 60.225pt>
 File: ES1/FEB012015.jpg Graphic file (type jpg)
 <use ES1/FEB012015.jpg>
 Package pdftex.def Info: ES1/FEB012015.jpg  used on input line 6.
@@ -745,7 +742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--14
 
  []
 
-<ES1/FEB012016.jpg, id=53, 298.11375pt x 95.1555pt>
+<ES1/FEB012016.jpg, id=12, 298.11375pt x 95.1555pt>
 File: ES1/FEB012016.jpg Graphic file (type jpg)
 <use ES1/FEB012016.jpg>
 Package pdftex.def Info: ES1/FEB012016.jpg  used on input line 15.
@@ -776,7 +773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--40
 
  []
 
-<ES1/LUG012016.jpg, id=54, 281.853pt x 151.16475pt>
+<ES1/LUG012016.jpg, id=13, 281.853pt x 151.16475pt>
 File: ES1/LUG012016.jpg Graphic file (type jpg)
 <use ES1/LUG012016.jpg>
 Package pdftex.def Info: ES1/LUG012016.jpg  used on input line 41.
@@ -882,7 +879,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--9
 
  []
 
-<ES2/GEN022016.jpg, id=87, 381.8265pt x 154.77824pt>
+<ES2/GEN022016.jpg, id=48, 381.8265pt x 154.77824pt>
 File: ES2/GEN022016.jpg Graphic file (type jpg)
 <use ES2/GEN022016.jpg>
 Package pdftex.def Info: ES2/GEN022016.jpg  used on input line 10.
@@ -897,7 +894,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
 
  []
 
-<ES2/FEB022016.jpg, id=88, 489.32813pt x 137.7647pt>
+<ES2/FEB022016.jpg, id=49, 489.32813pt x 137.7647pt>
 File: ES2/FEB022016.jpg Graphic file (type jpg)
 <use ES2/FEB022016.jpg>
 Package pdftex.def Info: ES2/FEB022016.jpg  used on input line 19.
@@ -912,7 +909,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--27
 
  []
 
-<ES2/GIU022016.jpg, id=89, 273.4215pt x 135.50626pt>
+<ES2/GIU022016.jpg, id=50, 273.4215pt x 135.50626pt>
 File: ES2/GIU022016.jpg Graphic file (type jpg)
 <use ES2/GIU022016.jpg>
 Package pdftex.def Info: ES2/GIU022016.jpg  used on input line 28.
@@ -927,7 +924,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
 
-<ES2/LUG022016.jpg, id=90, 226.446pt x 148.1535pt>
+<ES2/LUG022016.jpg, id=51, 226.446pt x 148.1535pt>
 File: ES2/LUG022016.jpg Graphic file (type jpg)
 <use ES2/LUG022016.jpg>
 Package pdftex.def Info: ES2/LUG022016.jpg  used on input line 37.
@@ -945,7 +942,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--8
 
  []
 
-<ES2/GEN022017.jpg, id=91, 281.25075pt x 128.27925pt>
+<ES2/GEN022017.jpg, id=52, 281.25075pt x 128.27925pt>
 File: ES2/GEN022017.jpg Graphic file (type jpg)
 <use ES2/GEN022017.jpg>
 Package pdftex.def Info: ES2/GEN022017.jpg  used on input line 9.
@@ -963,7 +960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--19
 
  []
 
-<ES2/FEB022017.jpg, id=92, 304.7385pt x 55.407pt>
+<ES2/FEB022017.jpg, id=53, 304.7385pt x 55.407pt>
 File: ES2/FEB022017.jpg Graphic file (type jpg)
 <use ES2/FEB022017.jpg>
 Package pdftex.def Info: ES2/FEB022017.jpg  used on input line 20.
@@ -981,7 +978,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
  []
 
-<ES2/GIU022017.jpg, id=93, 287.27325pt x 93.34875pt>
+<ES2/GIU022017.jpg, id=54, 287.27325pt x 93.34875pt>
 File: ES2/GIU022017.jpg Graphic file (type jpg)
 <use ES2/GIU022017.jpg>
 Package pdftex.def Info: ES2/GIU022017.jpg  used on input line 31.
@@ -999,7 +996,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--39
 
  []
 
-<ES2/LUG022017.jpg, id=94, 317.38576pt x 101.78024pt>
+<ES2/LUG022017.jpg, id=55, 317.38576pt x 101.78024pt>
 File: ES2/LUG022017.jpg Graphic file (type jpg)
 <use ES2/LUG022017.jpg>
 Package pdftex.def Info: ES2/LUG022017.jpg  used on input line 40.
@@ -1017,7 +1014,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--49
 
  []
 
-<ES2/SET022017.jpg, id=95, 170.43675pt x 93.34875pt>
+<ES2/SET022017.jpg, id=56, 170.43675pt x 93.34875pt>
 File: ES2/SET022017.jpg Graphic file (type jpg)
 <use ES2/SET022017.jpg>
 Package pdftex.def Info: ES2/SET022017.jpg  used on input line 50.
@@ -1035,7 +1032,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-<ES2/GEN022018.jpg, id=96, 269.20575pt x 89.73524pt>
+<ES2/GEN022018.jpg, id=57, 269.20575pt x 89.73524pt>
 File: ES2/GEN022018.jpg Graphic file (type jpg)
 <use ES2/GEN022018.jpg>
 Package pdftex.def Info: ES2/GEN022018.jpg  used on input line 8.
@@ -1109,7 +1106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<ES3/SET032017.jpg, id=109, 129.48375pt x 137.313pt>
+<ES3/SET032017.jpg, id=71, 129.48375pt x 137.313pt>
 File: ES3/SET032017.jpg Graphic file (type jpg)
 <use ES3/SET032017.jpg>
 Package pdftex.def Info: ES3/SET032017.jpg  used on input line 23.
@@ -1137,7 +1134,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-<ES4/GEN042015.jpg, id=118, 235.47975pt x 79.497pt>
+<ES4/GEN042015.jpg, id=81, 235.47975pt x 79.497pt>
 File: ES4/GEN042015.jpg Graphic file (type jpg)
 <use ES4/GEN042015.jpg>
 Package pdftex.def Info: ES4/GEN042015.jpg  used on input line 6.
@@ -1162,7 +1159,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
-<ES4/GIU042015.jpg, id=119, 169.8345pt x 83.71275pt>
+<ES4/GIU042015.jpg, id=82, 169.8345pt x 83.71275pt>
 File: ES4/GIU042015.jpg Graphic file (type jpg)
 <use ES4/GIU042015.jpg>
 Package pdftex.def Info: ES4/GIU042015.jpg  used on input line 27.
@@ -1177,7 +1174,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--35
 
  []
 
-<ES4/LUG042015.jpg, id=120, 157.18726pt x 36.135pt>
+<ES4/LUG042015.jpg, id=83, 157.18726pt x 36.135pt>
 File: ES4/LUG042015.jpg Graphic file (type jpg)
 <use ES4/LUG042015.jpg>
 Package pdftex.def Info: ES4/LUG042015.jpg  used on input line 36.
@@ -1203,7 +1200,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
-<ES4/FEB042016.jpg, id=121, 252.945pt x 102.98476pt>
+<ES4/FEB042016.jpg, id=84, 252.945pt x 102.98476pt>
 File: ES4/FEB042016.jpg Graphic file (type jpg)
 <use ES4/FEB042016.jpg>
 Package pdftex.def Info: ES4/FEB042016.jpg  used on input line 14.
@@ -1216,7 +1213,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<ES4/GIU042016.jpg, id=122, 156.585pt x 123.46124pt>
+<ES4/GIU042016.jpg, id=85, 156.585pt x 123.46124pt>
 File: ES4/GIU042016.jpg Graphic file (type jpg)
 <use ES4/GIU042016.jpg>
 Package pdftex.def Info: ES4/GIU042016.jpg  used on input line 23.
@@ -1225,13 +1222,28 @@ Package pdftex.def Info: ES4/GIU042016.jpg  used on input line 23.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--31
+ES4/2016.tex:30: Package inputenc Error: Unicode character ° (U+B0)
+(inputenc)                not set up for use with LaTeX.
 
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 28--33
+\OT1/cmr/m/n/10 Un cilin-dro con un vol-ume in-iziale di $12$ litri con-tiene $
+23\OML/cmm/m/it/10 g$ \OT1/cmr/m/n/10 di os-sigeno (peso moleco-lare
  []
 
 File: ES4/GIU042016.jpg Graphic file (type jpg)
 <use ES4/GIU042016.jpg>
-Package pdftex.def Info: ES4/GIU042016.jpg  used on input line 32.
+Package pdftex.def Info: ES4/GIU042016.jpg  used on input line 35.
 (pdftex.def)             Requested size: 172.24402pt x 135.80775pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1245,7 +1257,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<ES5/GEN052015.jpg, id=137, 166.82326pt x 109.00725pt>
+<ES5/GEN052015.jpg, id=101, 166.82326pt x 109.00725pt>
 File: ES5/GEN052015.jpg Graphic file (type jpg)
 <use ES5/GEN052015.jpg>
 Package pdftex.def Info: ES5/GEN052015.jpg  used on input line 5.
@@ -1263,7 +1275,7 @@ t/10 R\OT1/cmr/m/n/10 6$ e $\OML/cmm/m/it/10 i[] \OT1/cmr/m/n/10 = 1\OML/cmm/m
 sono
  []
 
-<ES5/FEB052015.jpg, id=138, 287.27325pt x 107.80275pt>
+<ES5/FEB052015.jpg, id=102, 287.27325pt x 107.80275pt>
 File: ES5/FEB052015.jpg Graphic file (type jpg)
 <use ES5/FEB052015.jpg>
 Package pdftex.def Info: ES5/FEB052015.jpg  used on input line 14.
@@ -1273,7 +1285,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
-<ES5/GIU052015.jpg, id=139, 217.41225pt x 125.87025pt>
+<ES5/GIU052015.jpg, id=103, 217.41225pt x 125.87025pt>
 File: ES5/GIU052015.jpg Graphic file (type jpg)
 <use ES5/GIU052015.jpg>
 Package pdftex.def Info: ES5/GIU052015.jpg  used on input line 22.
@@ -1286,7 +1298,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--29
 
  []
 
-<ES5/LUG052015.jpg, id=140, 230.0595pt x 113.82526pt>
+<ES5/LUG052015.jpg, id=104, 230.0595pt x 113.82526pt>
 File: ES5/LUG052015.jpg Graphic file (type jpg)
 <use ES5/LUG052015.jpg>
 Package pdftex.def Info: ES5/LUG052015.jpg  used on input line 30.
@@ -1299,7 +1311,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
  []
 
-<ES5/GEN052016.jpg, id=141, 205.9695pt x 108.405pt>
+<ES5/GEN052016.jpg, id=105, 205.9695pt x 108.405pt>
 File: ES5/GEN052016.jpg Graphic file (type jpg)
 <use ES5/GEN052016.jpg>
 Package pdftex.def Info: ES5/GEN052016.jpg  used on input line 6.
@@ -1312,7 +1324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
-<ES5/FEB052016.jpg, id=142, 210.7875pt x 97.5645pt>
+<ES5/FEB052016.jpg, id=106, 210.7875pt x 97.5645pt>
 File: ES5/FEB052016.jpg Graphic file (type jpg)
 <use ES5/FEB052016.jpg>
 Package pdftex.def Info: ES5/FEB052016.jpg  used on input line 14.
@@ -1325,7 +1337,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<ES5/GIU052016.jpg, id=143, 197.538pt x 114.4275pt>
+<ES5/GIU052016.jpg, id=107, 197.538pt x 114.4275pt>
 File: ES5/GIU052016.jpg Graphic file (type jpg)
 <use ES5/GIU052016.jpg>
 Package pdftex.def Info: ES5/GIU052016.jpg  used on input line 23.
@@ -1346,7 +1358,7 @@ t/10 R\OT1/cmr/m/n/10 6$ e $\OML/cmm/m/it/10 i[] \OT1/cmr/m/n/10 = 1\OML/cmm/m
 ono
  []
 
-<ES5/LUG052016.jpg, id=144, 218.61674pt x 101.178pt>
+<ES5/LUG052016.jpg, id=108, 218.61674pt x 101.178pt>
 File: ES5/LUG052016.jpg Graphic file (type jpg)
 <use ES5/LUG052016.jpg>
 Package pdftex.def Info: ES5/LUG052016.jpg  used on input line 31.
@@ -1359,7 +1371,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-<ES5/FEB052017.jpg, id=145, 196.3335pt x 99.37125pt>
+<ES5/FEB052017.jpg, id=109, 196.3335pt x 99.37125pt>
 File: ES5/FEB052017.jpg Graphic file (type jpg)
 <use ES5/FEB052017.jpg>
 Package pdftex.def Info: ES5/FEB052017.jpg  used on input line 5.
@@ -1372,7 +1384,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--13
 
  []
 
-<ES5/GIU052017.jpg, id=146, 182.48175pt x 97.5645pt>
+<ES5/GIU052017.jpg, id=110, 182.48175pt x 97.5645pt>
 File: ES5/GIU052017.jpg Graphic file (type jpg)
 <use ES5/GIU052017.jpg>
 Package pdftex.def Info: ES5/GIU052017.jpg  used on input line 14.
@@ -1385,7 +1397,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<ES5/SET052017.jpg, id=147, 158.994pt x 99.37125pt>
+<ES5/SET052017.jpg, id=111, 158.994pt x 99.37125pt>
 File: ES5/SET052017.jpg Graphic file (type jpg)
 <use ES5/SET052017.jpg>
 Package pdftex.def Info: ES5/SET052017.jpg  used on input line 23.
@@ -1407,15 +1419,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B0853786074B017C516F665869694DE0;456.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  B0853786074B017C516F665869694DE0;456.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
- 15967 strings out of 492973
- 262494 string characters out of 3135939
- 400810 words of memory out of 3000000
- 19505 multiletter control sequences out of 15000+200000
+ 15953 strings out of 492973
+ 262277 string characters out of 3135939
+ 400736 words of memory out of 3000000
+ 19497 multiletter control sequences out of 15000+200000
  6252 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,13n,43p,611b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1429,9 +1448,9 @@ amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (20 pages, 582236 bytes).
+Output written on main.pdf (20 pages, 578260 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
+ 179 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
- 215 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
