@@ -13,8 +13,8 @@ Si determini la differenza di potenziali ai capi della resistenza $R4$ del circu
 		$R_{12}=\frac{R_1\cdot R_2}{R_1+R_2}=\frac{18\Omega \cdot 15\Omega}{18\Omega+15\Omega}=8.18\Omega$\\
 		$R_{127}=R_{12}+R_7=8.18\Omega + 18\Omega=26.18\Omega$\\
 		$R_{3456}=R_{34}+R_{56}=15.38\Omega+16\Omega=31.38\Omega$\\
-		$R_{tot}=\frac{R_{127}\cdot R_{3456}}{R_{127}+R_{3456}}=\frac{26.18\Omega \cdot 31.38\Omega}{26.18\Omega + 31.38\Omega}=14.23\Omega$\\
-		Ricordando che la Tensione in parallelo non cambia, così come non cambia la corrente in serie:\\
+		$R_{tot}=\frac{R_{127}\cdot R_{3456}}{R_{127}+R_{3456}}=\frac{26.18\Omega \cdot 31.38\Omega}{26.18\Omega + 31.38\Omega}=14.23\Omega$\\ \\
+		Ricordando che la tensione in parallelo non cambia, così come non cambia la corrente in serie:\\
 		$V_{tot}=V_{127}=V_{3456}=12V$\\
 		$I_{3456}=\frac{V_{3456}}{R_{3456}}=0.38A \qquad I_{3456}=I_{34}=I_{56}$\\
 		$V_{34}=V_3=V_4=R_{34}\cdot I_{34}=15.38\Omega \cdot 0.38A=5.85\Omega \qquad V_{34}=V_3=V_4$
@@ -24,10 +24,26 @@ Si determini la differenza di potenziali ai capi della resistenza $R4$ del circu
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Febbraio 2015}\\ \\
  Nel circuito in figura, la corrente attraverso $R6$ è $i_6=1.40A$ e le resistenze sono
-$R1=R2=R3=2.0\Omega, R4= 16.0\Omega, R5= 8.0 \Omega e R6= 4.0 \Omega$. Qual'è la forza elettromotrice della batteria (ideale)?
+$R1=R2=R3=2.0\Omega, R4= 16.0\Omega, R5= 8.0 \Omega , R6= 4.0 \Omega$. Qual'è la forza elettromotrice della batteria (ideale)?
 \begin{center}
 		\includegraphics[scale=0.8]{ES5/FEB052015.jpg}
 	\end{center}
+
+	\begin{boxed}
+		\null\hfill \textbf{Soluzione:} $V = 48.3 V$\\
+		\textbf{Procedimento: } \\
+		Ricordando che la tensione in parallelo non cambia, così come non cambia la corrente in serie proseguiamo semplificando le resistenze e aggiornando man mano corrente e tensione:\\
+		$R_{56}=R_5 + R_6=8\Omega + 4\Omega=12\Omega$\\
+		$V_{56}=R_{56}\cdot I_6=16.8V$\\\\
+		$R_{456}=\frac{R_{56}\cdot R_4}{R_{56}+R_4}=\frac{12\Omega\cdot 16\Omega}{12\Omega + 16\Omega}=6.85\Omega$\\
+		$I_{456}=\frac{V_{56}}{R_{456}}=\frac{16.8V}{6.85\Omega}=2.45A$\\ \\
+		$R_{2456}=R_2+R_{456}=2\Omega+6.85\Omega=8.85\Omega$\\
+		$V_{2456}=R_{2456}\cdot I_{456}=8.85\cdot 2.45A=21.68V$\\ \\
+		$R_{23456}=\frac{R_3\cdot R_{2456}}{R_3+ R_{2456}}=\frac{2\Omega \cdot 8.85\Omega}{2\Omega+ 8.85\Omega}=1.63\Omega$\\ \\
+		$I_{23456}=I_{tot}=\frac{V_{23456}}{R_{23456}}=\frac{21.68V}{1.63\Omega}=13.3A$\\
+		$R_{tot}=R_1+R_{23456}=2\Omega+1.63\Omega=3.63\Omega$\\
+		$V=R_{tot}\cdot I_{tot}=3.63\Omega \cdot13.3A=48.28V$
+	\end{boxed}
 \end{figure}
 
 \begin{figure}[h!]
