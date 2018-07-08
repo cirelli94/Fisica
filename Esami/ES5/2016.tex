@@ -29,11 +29,22 @@ Si determini la differenza di potenziale ai capi della resistenza $R4$ del circu
 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Giugno 2016}\\ \\
-Se il generatore fornisce una differenza di potenziale di $12 V$, qual'è la caduta di potenziale ai capi della resistenza $R5$ ?
+Se il generatore fornisce una differenza di potenziale di $12 V$, qual'è la caduta di potenziale ai capi della resistenza $R5$. Si considerino le resistenze 
 $R1= 35 \Omega, R2= 10 \Omega, R3= 24 \Omega, R4= 18 \Omega, R5= 30 \Omega, R6= 21 \Omega, R7=17 \Omega , R8=19 \Omega$.
 	\begin{center}
 		\includegraphics[scale=1]{ES5/GIU052016.jpg}
 	\end{center}
+	\begin{boxed}
+		\null\hfill \textbf{Soluzione:} $V_5 = 5.60 V$\\
+		\textbf{Procedimento: } \\
+		Semplificazione delle Resistenze:\\
+		$R_{123}=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}}=\frac{1}{\frac{1}{35\Omega}+\frac{1}{10\Omega}+\frac{1}{24\Omega}}=5.87\Omega$\\ \\ 
+		$R_{4567}=\frac{1}{\frac{1}{R_4}+\frac{1}{R_5}+\frac{1}{R_6}+\frac{1}{R_7}}=\frac{1}{\frac{1}{18\Omega}+\frac{1}{30\Omega}+\frac{1}{21\Omega}+\frac{1}{17\Omega}}=5.12\Omega$\\
+		$R_{tot}=\frac{R_{1234567}\cdot R_8}{R_{1234567}+ R_8}=6.96\Omega$\\
+		Ricordando che la tensione in parallelo non cambia, così come non cambia la corrente in serie:\\
+		$I_{1234567}=\frac{V}{R_{1234567}}=\frac{12V}{10.98\Omega}=1.09A$\\
+		$V_5=V_4=V_6=V_7=R_{4567}\cdot I_{1234567}=5.12\Omega\cdot 1.09A=5.60V$
+	\end{boxed}
 \end{figure}
 
 \begin{figure}[h!]
