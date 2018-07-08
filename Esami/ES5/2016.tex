@@ -2,7 +2,7 @@
 \textbf{Tema d'Esame di Gennaio 2016}\\ \\
  Prima di chiudere l'interruttore $S1$, la tensione ai capi del condensatore $C1$ è pari a $12V$. Determinare quanto tempo deve passare dalla chiusura dell'interruttore $S1$ perché la corrente
 che scorre in $R2$ diventi inferiore a $10 \mu A$. $R1=R2=2k\Omega$. $C1=1\mu F$.
-\begin{center}
+	\begin{center}
 		\includegraphics[scale=0.8]{ES5/GEN052016.jpg}
 	\end{center}
 \end{figure}
@@ -10,16 +10,28 @@ che scorre in $R2$ diventi inferiore a $10 \mu A$. $R1=R2=2k\Omega$. $C1=1\mu F$
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Febbraio 2016}\\ \\
 Si determini la differenza di potenziale ai capi della resistenza $R4$ del circuito mostrato in figura. La differenza di potenziale fornita dalla batteria è di $12V$ e i valori delle resistenze sono rispettivamente $R2=15\Omega, R3=40\Omega,R4=25\Omega, R5=R6=32\Omega, R1=R7=18\Omega$
-\begin{center}
+	\begin{center}
 		\includegraphics[scale=1.1]{ES5/FEB052016.jpg}
 	\end{center}
+	\begin{boxed}
+		\null\hfill \textbf{Soluzione:} $V_4 = 1.60 V$\\
+		\textbf{Procedimento: } \\
+		Semplificazione delle Resistenze:\\
+		
+		$R_{1234}=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}+\frac{1}{R_4}}=\frac{1}{\frac{1}{18\Omega}+\frac{1}{15\Omega}+\frac{1}{40\Omega}+\frac{1}{25\Omega}}=5.34\Omega$\\ \\ 
+		$R_{56}=\frac{R_5\cdot R_6}{R_5+R_6}=\frac{32\Omega\cdot 32\Omega}{32\Omega+32\Omega}=16\Omega$\\ 
+		$R_{tot}=R_{1234}+R_{56}+R_7=5.34\Omega+16\Omega+18\Omega=39.34\Omega$\\
+		Ricordando che la tensione in parallelo non cambia, così come non cambia la corrente in serie:\\
+		$I_{tot}=I_{1234}=I_{56}=I_7=\frac{V}{R_{tot}}=\frac{12V}{39.34\Omega}=0.30A$\\
+		$V_4=V_1=V_2=V_3=R_{1234}\cdot I_{tot}=5.34\Omega\cdot 0.30A=1.60V$
+	\end{boxed}
 \end{figure}
 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Giugno 2016}\\ \\
 Se il generatore fornisce una differenza di potenziale di $12 V$, qual'è la caduta di potenziale ai capi della resistenza $R5$ ?
 $R1= 35 \Omega, R2= 10 \Omega, R3= 24 \Omega, R4= 18 \Omega, R5= 30 \Omega, R6= 21 \Omega, R7=17 \Omega , R8=19 \Omega$.
-\begin{center}
+	\begin{center}
 		\includegraphics[scale=1]{ES5/GIU052016.jpg}
 	\end{center}
 \end{figure}
@@ -27,7 +39,7 @@ $R1= 35 \Omega, R2= 10 \Omega, R3= 24 \Omega, R4= 18 \Omega, R5= 30 \Omega, R6= 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Luglio 2016}\\ \\
 Nel circuito in figura, la corrente attraverso $R6$ è $i_6=1.2 A$ e le resistenze sono $R1=R2=R3=4.0 \Omega, R4= 10 \Omega, R5= 4.0 \Omega , R6= 2.0 \Omega$. Qual'è la forza elettromotrice della batteria (ideale)?
-\begin{center}
+	\begin{center}
 		\includegraphics[scale=0.8]{ES5/LUG052016.jpg}
 	\end{center}
 \end{figure}
