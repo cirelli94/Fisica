@@ -21,11 +21,23 @@ Sapendo che la resistenza $R8$ è attraversata da una corrente $i_8 = 0.20 A$, s
 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Giugno 2017}\\ \\
- Si determini il valore della resistenza $R_x$ del circuito mostrato nella figura sotto a sinistra. La differenza di potenziale fornita dalla batteria è $3 V$, la corrente i3 che scorre nella resistenza $R3$ è pari a $0.1 A$ ed i valori delle altre resistenze nel circuito
+ Si determini il valore della resistenza $R_x$ del circuito mostrato nella figura sotto a sinistra. La differenza di potenziale fornita dalla batteria è $3 V$, la corrente $i_3$ che scorre nella resistenza $R_3$ è pari a $0.1 A$ ed i valori delle altre resistenze nel circuito
 sono $R1 = R2 = 5 \Omega ,R3 = R4 = 10 \Omega$.
-\begin{center}
+	\begin{center}
 		\includegraphics[scale=1.1]{ES5/GIU052017.jpg}
 	\end{center}
+	\begin{boxed}
+		\null\hfill \textbf{Soluzione:} $R_x = 1\Omega$\\
+		\textbf{Procedimento: } \\
+		Ricordando che la tensione in parallelo non cambia, così come non cambia la corrente in serie proseguiamo semplificando le resistenze e aggiornando man mano corrente e tensione:\\
+		$R_{23}=R_2 + R_3=5\Omega + 10\Omega=15\Omega$\\
+		$I_3=I_2=I_{23}=0.1A$\\
+		$V_{23}=V_{234}=V_4=R_{23} \cdot I_{23}=15\Omega \cdot 0.1A=1.5V$\\
+		$I_234=\frac{V_{234}}{R_{234}}=\frac{1.5V}{6\Omega}=0.25A$\\
+		$V_1=R_1\cdot I_{234}=5\Omega \cdot 0.25A=1.25V$\\
+		$V_x=V_{tot}- V_1 - V_{234}=3V - 1.25V -1.5V=0.25V$\\
+		$R_x=\frac{V_x}{I_{234}}=\frac{0.25V}{0.25A}=1\Omega$
+		\end{boxed}
 \end{figure}
 
 \begin{figure}[h!]
