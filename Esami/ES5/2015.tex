@@ -68,8 +68,19 @@ Si determini la differenza di potenziali ai capi della resistenza R4 del circuit
 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Luglio 2015}\\ \\
-La differenza di potenziale fornita dalla batteria è di $12V$ e i valori delle resistenze sono rispettivamente $R2=15\Omega, R3=40\Omega, R4=25\Omega, R5=R6=32\Omega, R1=R7=18\Omega$
-\begin{center}
+Si determini la differenza di potenziale ai capi della resistenza $R_4$ nel seguente circuito. La differenza di potenziale fornita dalla batteria è di $12V$ e i valori delle resistenze sono rispettivamente $R2=15\Omega, R3=40\Omega, R4=25\Omega, R5=R6=32\Omega, R1=R7=18\Omega$
+	\begin{center}
 		\includegraphics[scale=1]{ES5/LUG052015.jpg}
 	\end{center}
+	\begin{boxed}
+		\null\hfill \textbf{Soluzione:} $V_4 = 5.05 V$\\
+		\textbf{Procedimento: } \\
+		Semplificazione delle Resistenze:\\
+		$R_{256}=\frac{1}{\frac{1}{R_2}+\frac{1}{R_5}+\frac{1}{R_6}}=\frac{1}{\frac{1}{15\Omega}+\frac{1}{32\Omega}+\frac{1}{32\Omega}}=7.74\Omega$\\\\
+		$R_{1347}=\frac{1}{\frac{1}{R_1}+\frac{1}{R_3}+\frac{1}{R_4}+\frac{1}{R_7}}=\frac{1}{\frac{1}{18\Omega}+\frac{1}{40\Omega}+\frac{1}{25\Omega}+\frac{1}{18\Omega}}=5.68\Omega$\\ \\ 
+		$R_{tot}=7.74\Omega+5.68\Omega=13.42\Omega$\\ \\
+		Ricordando che la tensione in parallelo non cambia, così come non cambia la corrente in serie:\\
+		$I_{tot}=I_{256}=I_{1347}=\frac{V}{R_{tot}}=\frac{12V}{13.42\Omega}=0.89A$\\
+		$V_4=V_1=V_3=V_7=R_{1237}\cdot I_{tot}=5.68\Omega\cdot 0.89A=5.05V$
+	\end{boxed}
 \end{figure}
