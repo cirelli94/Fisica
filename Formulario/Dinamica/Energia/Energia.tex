@@ -36,7 +36,13 @@
 \subsubsection{Conservazione Dell'Energia Meccanica}
 \textbf{Nota bene: } applicabile solo quando le forze in gioco sono conservative(\textit{Forza Peso, Forza Elastica}).
 \begin{gather*}
-    \text{Conservazione dell'energia: } \\ K_i + U_i = K_f + U_f \rightarrow E_f = E_i \\ \frac{1}{2} m v_i^2 + mgh_i = \frac{1}{2} mv_f^2 + mgh_f \\
+    \text{Conservazione dell'energia(cinetica): } \\ K_i + U_i = K_f + U_f \rightarrow E_f = E_i \\ \frac{1}{2} m v_i^2 + mgh_i = \frac{1}{2} mv_f^2 + mgh_f \\
+    \text{Conservazione dell'energia(elastica): } \\ K_i + U_i = K_f + U_f \rightarrow E_f = E_i \\ \frac{1}{2} m v_i^2 + \frac{1}{2}kx^2 = \frac{1}{1}mv_f^2 + mgh_f \\
+    \textbf{Nota bene: }\text{Generalmente $v_i = 0 \frac{m}{s}$, quindi: } \\
+    \begin{cases}
+        \frac{1}{2}kx^2 = \frac{1}{1}mv_f^2 + mgh_f \\
+        v = \sqrt{\frac{k x^2}{m} - 2gh}
+    \end{cases}
 \end{gather*}
 
 \subsubsection{Non Conservazione Dell'Energia Meccanica}
