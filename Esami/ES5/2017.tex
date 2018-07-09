@@ -57,14 +57,54 @@ $R1 = 4.0 \Omega, R2 = 6.0 \Omega, R3 = 3.0 \Omega$ ed $ E 1 = 1.5 V,  E 2 = 3.0
 		\parbox{\textwidth}{
 			\null\hfill \textbf{Soluzione:} $R_x = 1\Omega$\\
 			\textbf{Procedimento: } \\
-			In questa tipologia di esercizio si deve impostare il sistema per poi trovare le rispettive correnti, per farlo bisogno stabilire arbitrariamente il verso della corrente di ogni maglia. Nel nostro caso supporremo che la corrente viaggi in senso orario in entrambe le maglie.\\
-			
+			In questa tipologia di esercizio si deve impostare il sistema per poi trovare le rispettive correnti, per farlo bisogno stabilire arbitrariamente il verso della corrente di ogni maglia.\\
+			 Nel nostro caso supporremo che la corrente viaggi in senso orario in entrambe le maglie.\\
+
 			\systeme*{
-				x_1=2r + s -t,
-				x_2= r,
-				x_3=-2s +2t, x_4=s,
-				x_5=t
+				I_1=I_2 +I_3,
+				\varepsilon_1= R_1\cdot I_1 + R_2\cdot I_2,
+				\varepsilon_2= -R_2\cdot I_2 + R_3\cdot I_3
 			}
+			\\ \\
+			Risolvendo il sistema si otterranno i valori delle correnti.\\ \\
+			\systeme*{
+				I_1=I_2 +I_3,
+				1.5= 4\cdot I_1 + 6\cdot I_2,
+				3= -6\cdot I_2 + 3\cdot I_3
+			}
+			\hspace{1.5cm} = \hspace{1.5cm}
+			\systeme*{
+				I_1=I_2 +I_3,
+				1.5= 4\cdot I_2 + 4\cdot I_3 + 6\cdot I_2,
+				3= -6\cdot I_2 + 3\cdot I_3
+			}\\ \\
+			\systeme*{
+				I_1=I_2 +I_3,
+				1.5= 10\cdot I_2 + 4\cdot I_3,
+				I_3=\frac{3V +6\cdot I_2}{3}
+			}
+			\hspace{1.5cm} = \hspace{1.5cm}
+			\systeme*{
+				I_1=I_2 +I_3,
+				1.5= 10\cdot I_2 + 4\cdot (1 +2\cdot I_2),
+				3= -6\cdot I_2 + 3\cdot I_3
+			}\\ \\
+			\systeme*{
+				I_1=I_2 +I_3,
+				I_2= -0.139,
+				I_3= 1 +2\cdot I_2
+			}
+			\hspace{1.5cm} = \hspace{1.5cm}
+			\systeme*{
+				I_1=-0.139 +I_3,
+				I_2= -0.139,
+				I_3= 0.722
+			}\\ \\
+			\systeme*{
+				I_1= 0.583A,
+				I_2= -0.139A,
+				I_3= 0.722A
+			}\\ \\
 		}
 	}	
 	
