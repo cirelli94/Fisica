@@ -16,13 +16,11 @@
         h = l \cdot \sin \alpha \\
         l = \frac{h}{\sin \alpha}
     \end{cases} \\
-    \text{Secondo principio: }
-    \begin{cases}
-        \vec{F} = m \vec{a} \\
-        \vec{a} = \frac{\vec{F}}{m} \\
-        m = \frac{\vec{F}}{a}
-    \end{cases} \\
-    \text{Terzo principio: } \vec{F}_{AB} = -\vec{F}_{BA} \\
+    \text{Secondo principio: } \\
+    \vec{F} = m \vec{a} \\
+    \vec{a} = \frac{\vec{F}}{m} \\
+    m = \frac{\vec{F}}{a} \\
+    \text{Terzo principio: } \vec{F}_{AB} = -\vec{F}_{BA}
 \end{gather*}
 \subsection{Piano inclinato}
 \begin{gather*}
@@ -31,10 +29,9 @@
 \end{gather*}
 %%%
 \subsubsection{Piano inclinato senza attrito}
-Piano inclinato: \\
 \includegraphics[width=0.75 \linewidth]{Dinamica/reazione-vincolare-nel-piano-inclinato.png} \\
 \begin{gather*}
-\text{Accelerazione}: \begin{cases}
+\textbf{Accelerazione}: \begin{cases}
     a_y = 0 \\
     a_x = g \sin{\alpha}
 \end{cases}
@@ -55,7 +52,7 @@ Piano inclinato: \\
 \subsubsection{Piano inclinato con attrito}
 \includegraphics[width=0.75 \linewidth]{Dinamica/piano-inclinato-con-attrito.png} \\
 \begin{gather*}
-    \text{Forza risultante: } F_{ris, x} = \sqrt{F_{P, x}^2 + F_{As}^2}
+    \textbf{Forza risultante: } F_{ris, x} = \sqrt{F_{P, x}^2 + F_{As}^2}
 \end{gather*}
 \textbf{Nota bene: } la forza d'attrito ($F_{A}$, attrito statico nell'immagine) ha verso opposto alla componente della forza peso sull'asse x($F_{P, x}$)
 \subsubsection{Piano inclinato con attrito e forza aggiuntiva}
@@ -65,21 +62,21 @@ Piano inclinato: \\
 
 \subsubsection{Attrito Statico}
 \begin{gather*}
-    \text{Forza Attrito Statico: } \\ F_{As} = \mu_s \cdot F_\perp = \mu_s \cdot F_{P, y} = \mu_s m g \cos (\alpha) \\
-    \text{Accelerazione: } \\ a = a_x = g \sin (\alpha) - \mu_s g \cos (\alpha) \\
-    \text{Angolo critico per l'equilibrio: } \\ \alpha = \arctan (\mu_s) : \\
+    \textbf{Forza Attrito Statico: } \\ F_{As} = \mu_s \cdot F_\perp = \mu_s \cdot F_{P, y} = \mu_s m g \cos (\alpha) \\
+    \textbf{Accelerazione: } \\ a = a_x = g \sin (\alpha) - \mu_s g \cos (\alpha) \\
+    \textbf{Angolo critico per l'equilibrio: } \\ \alpha = \arctan (\mu_s) : \\
     \begin{cases}
         \text{Scivola} & \text{Angoli } > \alpha \\
         \text{Equilibrio} & \text{Angoli } <= \alpha
     \end{cases}    \\
-    \text{Attrito Statico per Equilibrio: } \mu_s = \tan (\alpha)
+    \textbf{Attrito Statico per Equilibrio: } \mu_s = \tan (\alpha)
 \end{gather*}
 \textbf{Nota bene: } affinché una macchina(su terreno piano, $\cos (\alpha) = 0$) non slitti, la Forza di Attrito Statico($F_{As}$) deve essere uguale alla Forza($\vec{F}$) che la macchina esegue per andare avanti, quindi: $F_{As} = F \rightarrow \mu_s m g = m a \rightarrow \mu_s = \frac{a}{g}$
 \subsubsection{Attrito Dinamico}
 \textbf{Nota bene: } Per poter considerare il problema dal punto di vista dell'attrito dinamico($\mu_d$) il corpo deve essere già in movimento!
 \begin{gather*}
-    \text{Forza Attrito Dinamico:} \\ F_{Ad} = \mu_d \cdot F_\perp = \mu_d \cdot F_{P, y} = \mu_d m g \cos (\alpha) \\
-    \text{Accelerazione: } \\ a = a_x = g \sin (\alpha) - \mu_d g \cos (\alpha)
+    \textbf{Forza Attrito Dinamico:} \\ F_{Ad} = \mu_d \cdot F_\perp = \mu_d \cdot F_{P, y} = \mu_d m g \cos (\alpha) \\
+    \textbf{Accelerazione: } \\ a = a_x = g \sin (\alpha) - \mu_d g \cos (\alpha)
 \end{gather*}
 
 \input{Dinamica/Molle.tex}
