@@ -6,23 +6,44 @@ $M_{Terra}=5.972\cdot 10^{24} kg$.
 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Giugno 2016}\\ \\
-Sull'asse che unisce la terra con la luna (distanza terra-luna $D_{TL}=3.8\cdot 10^8 m$), a quale distanza dal centro della terra ($M_T=6.0\cdot 10^{24} kg$) la forza gravitazionale netta esercitata su un corpo di massa $M$ è nulla? (massa Luna $M_L=7.4\cdot 10^{22} kg$)
+Sull'asse che unisce la terra con la luna (distanza terra-luna $D_{TL}=3.8\cdot 10^8 m$), a quale distanza dal centro della terra ($M_T=6.0\cdot 10^{24} kg$) la forza gravitazionale netta esercitata su un corpo di massa $M$ è nulla? (massa Luna $M_L=7.4\cdot 10^{22} kg$)\\ \\
+\noindent\fbox{
+    \parbox{\textwidth}{
+        \null\hfill \textbf{Soluzione:} $ F=609.18N $\\
+        \textbf{Procedimento: } \\
+        Trasformare tutte le unità di misura secondo le convenzioni del Sistema Internazionale.\\
+        $d_{TL}=3.8\cdot 10^8m$\\ 
+        $M_T=6.0 \cdot 10^{24}kg$\\
+        $M_L=7.4 \cdot 10^{22}kg$\\ \\
+        Sapendo che:
+        \begin{gather*}
+            F=F_1=F_2=G\cdot \frac{M_1\cdot M_2}{d^2}            
+        \end{gather*}
+        Sapendo che per esercitare forza gravitazionale nulla deve valere ($M_C$ massa del corpo che si suppone in mezzo alle due traiettorie):
+        \begin{gather*}
+            F_{TC}=\cancel{G}\cdot \frac{M_T\cdot \cancel{M_C}}{d_{TC}^2}=\cancel{G}\cdot \frac{M_L\cdot \cancel{M_C}}{d_{LC}^2}=F_{LC} \qquad \qquad\frac{M_T}{M_L}=\frac{d_{TC}^2}{d_{LC}^2}=\frac{6.0 \cdot 10^{24}kg}{7.4 \cdot 10^{22}kg}=81.08 
+        \end{gather*}
+        Ricordando che:
+        \begin{gather*}
+            d_{LC}^2 = (d_{TL}-d_{TC})^2     
+        \end{gather*}
+        Sostituendo otteniamo:
+        \begin{gather*}
+            d_{TC}^2=81.08 \cdot (d_{TL}-d_{TC})^2 = 81.08 \cdot (3.8 \cdot 10^8m - d_{TC})^2 \\
+            d_{TC}^2=81.08 \cdot (1.44 \cdot 10^{17}m^2 + d_{TC}^2 - 7.6\cdot 10^8m \cdot d_{TC})\\ \\
+            80.08\cdot d_{TC}^2 -6.162\cdot 10^{10}m \cdot d_{TC} + 1.170\cdot 10^{19}m^2 = 0\\ 
+            \Delta =(6.162\cdot 10^{10})^2 -(4 \cdot 81.08 \cdot 1.170\cdot 10^{19})=2.48\cdot 10^{18}\\
+            d_{TC1, TC2}= \frac{6.162\cdot 10^{10} \pm \sqrt{2.48\cdot 10^{18}}}{2\cdot 80.08}=\\
+            d_{TC1}=3.94 \cdot 10^8m  \qquad d_{TC2}=3.74 \cdot 10^8m
+        \end{gather*}
+        
+           
+    }
+}	
 \end{figure}
 
 \begin{figure}[h!]
 \textbf{Tema d'Esame di Luglio 2016}\\ \\
 Calcolare il peso in $N$ di un astronauta sulla stazione spaziale quando questa orbita ad una quota di $400 km$ sopra la superficie terrestre. La massa dell'astronauta è di $70 kg$. Il raggio della terra è $6370 km$.\\ \\
-\noindent\fbox{
-    \parbox{\textwidth}{
-        \null\hfill \textbf{Soluzione:} $ F=609.18N $\\
-        \textbf{Procedimento: } \\
 
-        $r^2=r_{terra} + d_{astronauta}=6308km + 400km= 6770km=6 770 000m$\\ \\
-        Sapendo che:
-        \begin{gather*}
-            f=G\cdot \frac{M_T\cdot M_{astronauta}}{r^2}=6.67\cdot 10^{-11}Nm^2/kg^2 \cdot \frac{5.98\cdot 10^{24}kg \cdot 70kg}{(6 770 000m)^2}=609.18N            
-        \end{gather*}
-        
-    }
-}	
 \end{figure}
