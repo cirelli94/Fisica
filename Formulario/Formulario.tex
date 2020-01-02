@@ -1,58 +1,50 @@
 \documentclass{article}
+
 \usepackage[utf8]{inputenc}
-% separazione delle colonne
-\usepackage{multicol}
+
+\usepackage{multicol} % separazione delle colonne
 \usepackage[document]{ragged2e}
 \usepackage{graphicx}
-\setlength{\columnsep}{1cm}
 \usepackage{tabularx}
 \usepackage{cancel}
 \usepackage{amsmath}
+\usepackage[a4paper, total={20cm, 25cm}]{geometry} % margini della pagina
 
-\allowdisplaybreaks %% Fix per gli spazi bianchi giganteschi
+\allowdisplaybreaks % Fix per gli spazi bianchi giganteschi
+\setlength{\columnsep}{1cm}
 
-% margini della pagina
-\usepackage[a4paper, total={20cm, 25cm}]{geometry}
 
-\title{Formulario Fisica}
-\author{Adrian Castro \and Alessandro Ferrenti}
-\date{July 2018}
+
 
 \begin{document}
 
+\title{Formulario di Fisica}
+\author{}
+\date{}
 \maketitle
 
 \begin{multicols}{3}
 
-%%
 \input{Trigonometria/Trigonometria.tex}
 
-%%
 \input{UnitaDiMisura/UnitaDiMisura.tex}
 
-%%
 \input{Vettori/Vettori.tex}
 
-%%
 \input{Costanti/Costanti.tex}
 
-%%
 \input{Cinematica/Cinematica.tex}
 
-%%
 \input{Dinamica/Dinamica.tex}
 
-%%
 \input{Gravitazione/Gravitazione.tex}
 
-%%
 \input{FluidoDinamica/FluidoDinamica.tex}
 
-%%
 \input{TermoDinamica/TermoDinamica.tex}
 
-%%
 \input{Circuiti/Circuiti.tex}
+
 \end{multicols}
 
 \end{document}
