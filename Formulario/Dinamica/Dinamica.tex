@@ -1,43 +1,30 @@
 \section{Dinamica}
 
-\subsection{Principi fondamentali}
+    \subsection{Principi fondamentali}
+        \begin{gather*}
+            \text{Secondo principio: } \\
+            \vec{F} = m \vec{a} \\
+            \vec{a} = \frac{\vec{F}}{m} \\
+            m = \frac{\vec{F}}{a} \\
+            \text{Terzo principio: } \vec{F}_{AB} = -\vec{F}_{BA}
+        \end{gather*}
 
-\begin{center}
-    \includegraphics[width=0.6\linewidth]{Dinamica/piano-inclinato-senza-angolo.png} \\    
-\end{center}
+    \subsection{Piano inclinato}
+        \begin{gather*}
+            F_{P, x} = F_P \sin (\alpha) = m g \sin (\alpha) \\
+            F_{P, y} = F_P \cos (\alpha) = m g \cos (\alpha)
+        \end{gather*}
 
-\begin{gather*}
-    \begin{cases}
-        \sin \alpha = \frac{h}{l} \\ 
-        \cos \alpha = \frac{d}{l} \\
-        \tan \alpha = \frac{h}{d} \\
-    \end{cases} \rightarrow 
-    \begin{cases}
-        h = l \cdot \sin \alpha \\
-        l = \frac{h}{\sin \alpha}
-    \end{cases} \\
-    \text{Secondo principio: } \\
-    \vec{F} = m \vec{a} \\
-    \vec{a} = \frac{\vec{F}}{m} \\
-    m = \frac{\vec{F}}{a} \\
-    \text{Terzo principio: } \vec{F}_{AB} = -\vec{F}_{BA}
-\end{gather*}
-\subsection{Piano inclinato}
-\begin{gather*}
-    F_{P, x} = F_P \sin (\alpha) = m g \sin (\alpha) \\
-    F_{P, y} = F_P \cos (\alpha) = m g \cos (\alpha) 
-\end{gather*}
-%%%
-\subsubsection{Piano inclinato senza attrito}
-\includegraphics[width=0.75 \linewidth]{Dinamica/reazione-vincolare-nel-piano-inclinato.png} \\
-\begin{gather*}
-\textbf{Accelerazione}: \begin{cases}
-    a_y = 0 \\
-    a_x = g \sin{\alpha}
-\end{cases}
-\end{gather*}
+        \subsubsection{Piano inclinato senza attrito}
+            \includegraphics[width=0.75 \linewidth]{Dinamica/reazione-vincolare-nel-piano-inclinato.png} \\
+            \begin{gather*}
+            \textbf{Accelerazione}: \begin{cases}
+                a_y = 0 \\
+                a_x = g \sin{\alpha}
+            \end{cases}
+            \end{gather*}
 
-\subsubsection{Piano inclinato con F verso l'alto}
+        \subsubsection{Piano inclinato con F verso l'alto}
 \includegraphics[width=0.75 \linewidth]{Dinamica/variante-piano-inclinato-senza-attrito.png} \\
 \textbf{Nota bene: } sull'asse y la forza($F$)che spinge l'oggetto verso l'alto non fa cambiare niente. Ricordiamo che abbiamo scelto \textbf{il piano inclinato} come asse del nostro sistema di riferimento.
 \begin{gather*}
@@ -48,7 +35,7 @@
         F_{P, x} < F & \text{Corpo sale, $a$ negativa}
     \end{cases}
 \end{gather*}
-%%%
+
 \subsubsection{Piano inclinato con attrito}
 \includegraphics[width=0.75 \linewidth]{Dinamica/piano-inclinato-con-attrito.png} \\
 \begin{gather*}
